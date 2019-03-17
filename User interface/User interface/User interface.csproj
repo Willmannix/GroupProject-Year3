@@ -1,0 +1,340 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7D24BFAB-7746-4DB6-A933-2A6A84E235B9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>User_interface</RootNamespace>
+    <AssemblyName>User interface</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddNewUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddNewUser.Designer.cs">
+      <DependentUpon>AddNewUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddStock.Designer.cs">
+      <DependentUpon>AddStock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdvanceWOstage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdvanceWOstage.Designer.cs">
+      <DependentUpon>AdvanceWOstage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ApproveStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApproveStock.Designer.cs">
+      <DependentUpon>ApproveStock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AssignWorkOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AssignWorkOrder.Designer.cs">
+      <DependentUpon>AssignWorkOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CheckStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CheckStock.Designer.cs">
+      <DependentUpon>CheckStock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CheckWorkOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CheckWorkOrder.Designer.cs">
+      <DependentUpon>CheckWorkOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteUser.Designer.cs">
+      <DependentUpon>DeleteUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditUser.Designer.cs">
+      <DependentUpon>EditUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FloorManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FloorManager.Designer.cs">
+      <DependentUpon>FloorManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormContainer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormContainer.Designer.cs">
+      <DependentUpon>FormContainer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formEQuantity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formEQuantity.Designer.cs">
+      <DependentUpon>formEQuantity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomeStockManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomeStockManager.Designer.cs">
+      <DependentUpon>HomeStockManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LineSeparator.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="LineSeparator.Designer.cs">
+      <DependentUpon>LineSeparator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogIn.Designer.cs">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MarkAsBroken.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MarkAsBroken.Designer.cs">
+      <DependentUpon>MarkAsBroken.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Operator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Operator.Designer.cs">
+      <DependentUpon>Operator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrintWO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintWO.Designer.cs">
+      <DependentUpon>PrintWO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QCcheck.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QCcheck.Designer.cs">
+      <DependentUpon>QCcheck.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RequestQcCheck.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RequestQcCheck.designer.cs">
+      <DependentUpon>RequestQcCheck.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RequestStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RequestStock.Designer.cs">
+      <DependentUpon>RequestStock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SignOutOperator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SignOutOperator.Designer.cs">
+      <DependentUpon>SignOutOperator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Statistics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Statistics.Designer.cs">
+      <DependentUpon>Statistics.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewEmployees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewEmployees.Designer.cs">
+      <DependentUpon>ViewEmployees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewSignedIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewSignedIn.Designer.cs">
+      <DependentUpon>ViewSignedIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WOListcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WOListcs.Designer.cs">
+      <DependentUpon>WOListcs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WorkOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WorkOrder.Designer.cs">
+      <DependentUpon>WorkOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WorkOrderTeams.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WorkOrderTeams.Designer.cs">
+      <DependentUpon>WorkOrderTeams.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddNewUser.resx">
+      <DependentUpon>AddNewUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddStock.resx">
+      <DependentUpon>AddStock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdvanceWOstage.resx">
+      <DependentUpon>AdvanceWOstage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ApproveStock.resx">
+      <DependentUpon>ApproveStock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AssignWorkOrder.resx">
+      <DependentUpon>AssignWorkOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CheckStock.resx">
+      <DependentUpon>CheckStock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CheckWorkOrder.resx">
+      <DependentUpon>CheckWorkOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteUser.resx">
+      <DependentUpon>DeleteUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditUser.resx">
+      <DependentUpon>EditUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FloorManager.resx">
+      <DependentUpon>FloorManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormContainer.resx">
+      <DependentUpon>FormContainer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formEQuantity.resx">
+      <DependentUpon>formEQuantity.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomeStockManager.resx">
+      <DependentUpon>HomeStockManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LineSeparator.resx">
+      <DependentUpon>LineSeparator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogIn.resx">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MarkAsBroken.resx">
+      <DependentUpon>MarkAsBroken.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Operator.resx">
+      <DependentUpon>Operator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintWO.resx">
+      <DependentUpon>PrintWO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QCcheck.resx">
+      <DependentUpon>QCcheck.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RequestQcCheck.resx">
+      <DependentUpon>RequestQcCheck.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RequestStock.resx">
+      <DependentUpon>RequestStock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SignOutOperator.resx">
+      <DependentUpon>SignOutOperator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Statistics.resx">
+      <DependentUpon>Statistics.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewEmployees.resx">
+      <DependentUpon>ViewEmployees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewSignedIn.resx">
+      <DependentUpon>ViewSignedIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WOListcs.resx">
+      <DependentUpon>WOListcs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WorkOrder.resx">
+      <DependentUpon>WorkOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="WorkOrderTeams.resx">
+      <DependentUpon>WorkOrderTeams.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BuisnessEntities\BuisnessEntities.csproj">
+      <Project>{a9f7f2c3-9a61-448f-8dce-59f80c8fa61a}</Project>
+      <Name>BuisnessEntities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BuisnessLayer\BuisnessLayer.csproj">
+      <Project>{0bdd650b-fbf3-40ba-ba18-552fdaabb6cd}</Project>
+      <Name>BuisnessLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataAccessLayer\DataAccessLayer.csproj">
+      <Project>{88cd04eb-3b02-47e3-a022-90dd7cf1921c}</Project>
+      <Name>DataAccessLayer</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
