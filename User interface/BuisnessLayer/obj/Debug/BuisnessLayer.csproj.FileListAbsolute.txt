@@ -1,0 +1,102 @@
+C:\Users\adams pc\Documents\GitHub\objmad\Team%203\Team%203\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.csproj.CoreCompileInputs.cache
+C:\Users\adams pc\Documents\GitHub\objmad\Team%203\Team%203\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.csprojAssemblyReference.cache
+C:\Users\adams pc\Desktop\User interface\BuisnessLayer\bin\Debug\BuisnessLayer.dll
+C:\Users\adams pc\Desktop\User interface\BuisnessLayer\bin\Debug\BuisnessLayer.pdb
+C:\Users\adams pc\Desktop\User interface\BuisnessLayer\bin\Debug\BuisnessEntities.dll
+C:\Users\adams pc\Desktop\User interface\BuisnessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\adams pc\Desktop\User interface\BuisnessLayer\bin\Debug\BuisnessEntities.pdb
+C:\Users\adams pc\Desktop\User interface\BuisnessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\adams pc\Desktop\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.csprojAssemblyReference.cache
+C:\Users\adams pc\Desktop\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.csproj.CoreCompileInputs.cache
+C:\Users\adams pc\Desktop\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.csproj.CopyComplete
+C:\Users\adams pc\Desktop\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.dll
+C:\Users\adams pc\Desktop\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.pdb
+C:\Users\Ryan Kelly\Documents\GitHub\Team%203\Team%203\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.csprojAssemblyReference.cache
+C:\Users\Ryan Kelly\Documents\GitHub\Team%203\Team%203\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Kelly\Documents\GitHub\Team%203\Team%203\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.dll
+C:\Users\Ryan Kelly\Documents\GitHub\Team%203\Team%203\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.pdb
+C:\Users\adams pc\Desktop\Team%203\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.csprojAssemblyReference.cache
+C:\Users\adams pc\Desktop\Team%203\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.csproj.CoreCompileInputs.cache
+C:\Users\adams pc\Desktop\Team%203\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.dll
+C:\Users\adams pc\Desktop\Team%203\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.pdb
+C:\Users\adams pc\Desktop\i\User interface\BuisnessLayer\bin\Debug\BuisnessLayer.dll
+C:\Users\adams pc\Desktop\i\User interface\BuisnessLayer\bin\Debug\BuisnessLayer.pdb
+C:\Users\adams pc\Desktop\i\User interface\BuisnessLayer\bin\Debug\BuisnessEntities.dll
+C:\Users\adams pc\Desktop\i\User interface\BuisnessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\adams pc\Desktop\i\User interface\BuisnessLayer\bin\Debug\BuisnessEntities.pdb
+C:\Users\adams pc\Desktop\i\User interface\BuisnessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\adams pc\Desktop\i\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.csprojAssemblyReference.cache
+C:\Users\adams pc\Desktop\i\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.csproj.CoreCompileInputs.cache
+C:\Users\adams pc\Desktop\i\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.csproj.CopyComplete
+C:\Users\adams pc\Desktop\i\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.dll
+C:\Users\adams pc\Desktop\i\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.pdb
+C:\Users\mmpho\Desktop\Team%203\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.csprojAssemblyReference.cache
+C:\Users\mmpho\Desktop\Team%203\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.csproj.CoreCompileInputs.cache
+C:\Users\mmpho\Desktop\Team%203\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.dll
+C:\Users\mmpho\Desktop\Team%203\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.pdb
+C:\Users\mmpho\Desktop\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.csprojAssemblyReference.cache
+C:\Users\mmpho\Desktop\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.csproj.CoreCompileInputs.cache
+C:\Users\mmpho\Desktop\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.dll
+C:\Users\mmpho\Desktop\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.pdb
+C:\Users\mmpho\Desktop\User interface\BuisnessLayer\bin\Debug\BuisnessLayer.dll
+C:\Users\mmpho\Desktop\User interface\BuisnessLayer\bin\Debug\BuisnessLayer.pdb
+C:\Users\mmpho\Desktop\User interface\BuisnessLayer\bin\Debug\BuisnessEntities.dll
+C:\Users\mmpho\Desktop\User interface\BuisnessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\mmpho\Desktop\User interface\BuisnessLayer\bin\Debug\BuisnessEntities.pdb
+C:\Users\mmpho\Desktop\User interface\BuisnessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\mmpho\Desktop\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.csproj.CopyComplete
+C:\Users\adams pc\Desktop\t\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.csprojAssemblyReference.cache
+C:\Users\adams pc\Desktop\t\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.csproj.CoreCompileInputs.cache
+C:\Users\adams pc\Desktop\t\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.dll
+C:\Users\adams pc\Desktop\t\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.pdb
+C:\Users\adams pc\Desktop\t\User interface\BuisnessLayer\bin\Debug\BuisnessLayer.dll
+C:\Users\adams pc\Desktop\t\User interface\BuisnessLayer\bin\Debug\BuisnessLayer.pdb
+C:\Users\adams pc\Desktop\t\User interface\BuisnessLayer\bin\Debug\BuisnessEntities.dll
+C:\Users\adams pc\Desktop\t\User interface\BuisnessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\adams pc\Desktop\t\User interface\BuisnessLayer\bin\Debug\BuisnessEntities.pdb
+C:\Users\adams pc\Desktop\t\User interface\BuisnessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\adams pc\Desktop\t\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.csproj.CopyComplete
+C:\Users\Dell\Desktop\User interface\BuisnessLayer\bin\Debug\BuisnessLayer.dll
+C:\Users\Dell\Desktop\User interface\BuisnessLayer\bin\Debug\BuisnessLayer.pdb
+C:\Users\Dell\Desktop\User interface\BuisnessLayer\bin\Debug\BuisnessEntities.dll
+C:\Users\Dell\Desktop\User interface\BuisnessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Dell\Desktop\User interface\BuisnessLayer\bin\Debug\BuisnessEntities.pdb
+C:\Users\Dell\Desktop\User interface\BuisnessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Dell\Desktop\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.csproj.CopyComplete
+C:\Users\Dell\Desktop\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.dll
+C:\Users\Dell\Desktop\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.pdb
+C:\Users\Owner\Desktop\Team%3\User interface\BuisnessLayer\bin\Debug\BuisnessLayer.dll
+C:\Users\Owner\Desktop\Team%3\User interface\BuisnessLayer\bin\Debug\BuisnessLayer.pdb
+C:\Users\Owner\Desktop\Team%3\User interface\BuisnessLayer\bin\Debug\BuisnessEntities.dll
+C:\Users\Owner\Desktop\Team%3\User interface\BuisnessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Owner\Desktop\Team%3\User interface\BuisnessLayer\bin\Debug\BuisnessEntities.pdb
+C:\Users\Owner\Desktop\Team%3\User interface\BuisnessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Owner\Desktop\Team%3\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\Team%3\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Team%3\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.csproj.CopyComplete
+C:\Users\Owner\Desktop\Team%3\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.dll
+C:\Users\Owner\Desktop\Team%3\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.pdb
+C:\Users\Ryan Kelly\Documents\GitHub\Team%3\Team%3\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.csprojAssemblyReference.cache
+C:\Users\Ryan Kelly\Documents\GitHub\Team%3\Team%3\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Kelly\Documents\GitHub\Team%3\Team%3\User interface\BuisnessLayer\bin\Debug\BuisnessLayer.dll
+C:\Users\Ryan Kelly\Documents\GitHub\Team%3\Team%3\User interface\BuisnessLayer\bin\Debug\BuisnessLayer.pdb
+C:\Users\Ryan Kelly\Documents\GitHub\Team%3\Team%3\User interface\BuisnessLayer\bin\Debug\BuisnessEntities.dll
+C:\Users\Ryan Kelly\Documents\GitHub\Team%3\Team%3\User interface\BuisnessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Ryan Kelly\Documents\GitHub\Team%3\Team%3\User interface\BuisnessLayer\bin\Debug\BuisnessEntities.pdb
+C:\Users\Ryan Kelly\Documents\GitHub\Team%3\Team%3\User interface\BuisnessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Ryan Kelly\Documents\GitHub\Team%3\Team%3\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.csproj.CopyComplete
+C:\Users\Ryan Kelly\Documents\GitHub\Team%3\Team%3\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.dll
+C:\Users\Ryan Kelly\Documents\GitHub\Team%3\Team%3\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.pdb
+C:\Users\wmannix\Desktop\newproj\User interface\BuisnessLayer\bin\Debug\BuisnessLayer.dll
+C:\Users\wmannix\Desktop\newproj\User interface\BuisnessLayer\bin\Debug\BuisnessLayer.pdb
+C:\Users\wmannix\Desktop\newproj\User interface\BuisnessLayer\bin\Debug\BuisnessEntities.dll
+C:\Users\wmannix\Desktop\newproj\User interface\BuisnessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\wmannix\Desktop\newproj\User interface\BuisnessLayer\bin\Debug\BuisnessEntities.pdb
+C:\Users\wmannix\Desktop\newproj\User interface\BuisnessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\wmannix\Desktop\newproj\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.csprojAssemblyReference.cache
+C:\Users\wmannix\Desktop\newproj\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.csproj.CoreCompileInputs.cache
+C:\Users\wmannix\Desktop\newproj\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.csproj.CopyComplete
+C:\Users\wmannix\Desktop\newproj\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.dll
+C:\Users\wmannix\Desktop\newproj\User interface\BuisnessLayer\obj\Debug\BuisnessLayer.pdb
